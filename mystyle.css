@@ -1,0 +1,25 @@
+body{
+	background-color:white;
+	background-image:url("background1.png");
+	font-size: 14px;
+
+}
+
+a{
+	color:white;
+	text-decoration:underline;
+}
+
+b{	color:black;
+	text-decoration:underline;
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+h1{
+	color: black;
+	font-size: 28px;
+}
